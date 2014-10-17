@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tit:home|Door43 (tit)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tit|d43-tit repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tit/archive/master.zip|d43-tit.zip]]
+
+**Recent Changes**
+{{changes>ns = tit}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tit|Ethnologue data]]
+
